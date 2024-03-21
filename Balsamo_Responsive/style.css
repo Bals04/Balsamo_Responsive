@@ -1,0 +1,62 @@
+*{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: rgb(255, 255, 255);
+    height: 3rem;
+    width: auto;
+    display: flex;
+
+}
+.Logo{
+    font-size: 2rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 3rem;
+    margin-top: 5px;
+}
+ul{
+    display: flex;
+    list-style: none;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 0.4rem;
+    margin-left: 2.5rem;
+
+}
+li{
+    padding: 7px;
+    color: rgb(100, 103, 105);
+}
+.content1{
+    width: auto;
+    height: 15rem;
+    text-align: center;
+    padding-top: 6.5rem;
+}
+.slogan{
+    font-size: 4rem;
+    font-weight: bolder;
+}
+.slogan2{
+    color: rgb(100, 103, 105);
+}
+.button1{
+    outline: none;
+    height: 3rem;
+    width: 6rem;
+    border-radius: 5.5px;
+    border-color: rgb(77, 73, 73);
+}
+.button2{
+    border: none;
+    outline: none;
+    height: 3rem;
+    width: 6rem;
+    border-radius: 5.5px;
+    color: white;
+    background-color: rgb(9, 85, 9);
+    border-color: rgb(9, 85, 9);
+}
